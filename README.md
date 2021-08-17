@@ -16,4 +16,12 @@ https://github.com/Cleython-Enginner/angular-realworld
 
 https://github.com/Cleython-Enginner/projeto-previsaodotempo-digital-innovation
 
+## Blog
+
+https://github.com/Cleython-Enginner/blog-java-angular-dio
+
+## Gerenciador Financeiro 
+
+https://github.com/Cleython-Enginner/SPA-financeiro-Angular-digitalinnovation
+
 
