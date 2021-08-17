@@ -1,5 +1,5 @@
 # Projetos_Angular
 
-## Sistema de Catálogo de cursos realizados
+## Sistema de HardSkills
 
 https://github.com/Cleython-Enginner/projeto-skillscursos
